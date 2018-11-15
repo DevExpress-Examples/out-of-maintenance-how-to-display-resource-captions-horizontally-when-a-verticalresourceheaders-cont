@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/HorizontalResourceHeaderCaption/Form1.cs) (VB: [Form1.vb](./VB/HorizontalResourceHeaderCaption/Form1.vb))
+* [Program.cs](./CS/HorizontalResourceHeaderCaption/Program.cs) (VB: [Program.vb](./VB/HorizontalResourceHeaderCaption/Program.vb))
+* [XtraSchedulerReport1.cs](./CS/HorizontalResourceHeaderCaption/XtraSchedulerReport1.cs) (VB: [XtraSchedulerReport1.vb](./VB/HorizontalResourceHeaderCaption/XtraSchedulerReport1.vb))
+<!-- default file list end -->
 # How to display resource captions horizontally when a VerticalResourceHeaders control is used
 
 
